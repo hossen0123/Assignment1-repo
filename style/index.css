@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* Header style */
+.banner{
+    display: flex;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 560px;
+    padding: 119px 80px;
+    border-radius: 2%;
+    align-items: center;
+    margin: 20px 30px 40px 50px;
+    background-position: center;
+    justify-content: center;
+    
+}
+.banner-title{
+    font-size: 24px;
+    width: 622px;
+    height: 29px;
+    font-size: medium;
+    color: #0E0E0E;
+}
+.banner-description{
+    font-size: 56px;
+    font-size: bold;
+    width: 622px;
+    height: 201px;
+    color: #0E0E0E;
+}
+.banner-btn{
+    font-size: 18px;
+    width: 202px;
+    height: 22px;
+    font-size: 600;
+    color: white;
+    background-color: #006A50;
+    padding: 30px 80px;
+    border: none;
+    border-radius: 5px;
+}
+.banner-pic{
+    width: 474.032px;
+    height: 400px;    
+}
