@@ -5,12 +5,13 @@
     background-color: #C6E4D6;
     width: 1280px;
     height: 560px;
-    padding: 119px 80px;
+    padding: 0px 20px;
     border-radius: 2%;
     align-items: center;
     margin: 20px 30px 40px 50px;
     background-position: center;
     justify-content: center;
+    margin: 0 auto;
     
 }
 .banner-title{
@@ -41,4 +42,87 @@
 .banner-pic{
     width: 474.032px;
     height: 400px;    
+}
+/* Main style */
+.vision-title{
+    font-size: 40px;
+    font-size: bold;
+    width: 1280px;
+    height: 48px;
+    color: #0E0E0E;
+}
+.vision-description{
+    font-size: 16px;
+    width: 1280px;
+    height: 48px;
+    color: #0E0E0E;
+}
+.skill-description{
+   width: 64px;
+   height: 64; 
+}
+.skill-title{
+  font-size: 20px;
+  font-size: bold;
+  width: 346.67px;
+  height: 24px;
+  color: #0E0E0E;  
+}
+.skill-position{
+    font-size: 16px;
+    font-size: regular;
+    width: 346.67;
+    height: 72px;
+    color: #0E0E0E;
+}
+.skill-section{
+    font-size: 16px;
+    font-size: 600;
+    width: 82px;
+    height: 19px;
+    color: white;
+    background-color: #5490F5;
+    padding: 0px 0px 40px;
+}
+.vision-skill{
+    font-size: 16px;
+    font-size: 600;
+    width: 82px;
+    height: 19px;
+    color: white;
+    background-color: #006A50;
+    padding: 0px 0px 40px;
+}
+.skill-vision{
+    font-size: 16px;
+    font-size: 600;
+    width: 82px;
+    height: 19px;
+    color: white;
+    background-color: darkgoldenrod; 
+    padding: 0px 0px 40px; 
+}
+.skill{
+  background-color: #5490F5;
+  width: 350px;
+  height: 309px;
+}
+.shift{
+    background-color: #006A50;
+    width: 350px;
+    height: 309px;
+}
+.title{
+    background-color: #FFC239; 
+    width: 350px;
+    height: 309px;   
+}
+.skills-container{
+ display: flex; 
+ gap: 25px; 
+}
+.vision1{
+width: 1280px;
+height: 789px;
+ margin: 0 auto;   
 }
